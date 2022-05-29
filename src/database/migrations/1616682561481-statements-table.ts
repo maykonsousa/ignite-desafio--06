@@ -22,7 +22,7 @@ export class accountsTable1616682561481 implements MigrationInterface {
         {
           name: 'amount',
           type: 'decimal',
-          precision: 5,
+          precision: 10,
           scale: 2,
         },
         {
